@@ -1,0 +1,71 @@
+apa itu ui/ux
+ui , tampilan dari sebuah aplikasi digital guna untuk menampilkan
+ux, pengalaman atau kesan seseorang ketika menggunakan atau berinteraksi dengan sebuah aplikasi
+suatu proses pembuatan suatu tampilan aplikasi atau website dengan tujuan untuk memudahkan pengguna ketika menggunakan aplikasi atau website
+
+ui
+visual design
+color
+grapich designer
+layout
+typography
+
+ux
+interaction design
+wireframe prototype
+information architct
+user research
+scenario
+
+dunia kerja uiux
+ux writer , mengerjakan memilih kata kata yang tepat untuk ditempatkan diweb site
+ui/ux designer , fokus tampilan aplikasi
+ui designer
+ux engginer , prototyping
+interaction designer, mengatur transisi screen by screen
+ux researcher , mengumpulkan data user
+
+design thinking
+
+empathize, bagaimana menganalisa dan memahami prilaku user dalam kegiatan sehari hari
+define , bagaimana menganalisa data hasil empathize dan menemukan masalah utama dari user/pengguna
+ideate , pembuatan solusi dari masalah yung sudah teridentifikasi dalam bentuk sebuah interface aplikasi atau website
+prototype, membuat versi minimal yang digunakan user tujuan untuk user testing.
+test , mencoba solusi interface yang sudah kita buat kepada user dengan tujuan mendapatkan data dari solusi yang kita buat.
+
+software yang digunakan
+
+dokumentasi analisa
+google docs , google sheets
+
+handover
+Zeplin
+
+design &prototyping 
+sketch & figma
+
+online testing
+maze&hotjar
+
+Basic rule ui/ux
+1. memahami user , bagaimana perilaku mereka  maka solusi yang kita buat akan lebih tepat
+2. kejelasann sistem, dengan memberikan feedback yang jelas , user akan lebih muda mengatasi permasalahan yang dia hadapi saat menggunakan aplikasi atau website yang kita rancang
+3. menyerupai dunia nyata, user akan lebih memahami ketika elemen pada aplikasi atau website menyerupai dunia nyata.
+4. kebebasan pengguna, lebih nyaman ketika mereka mempunyai pilihan ketika menggunakan aplikasi atau website
+5.konsisten , melakukan konsistensi dan menerapkan standar ketika mendesain, kita dapat memperoleh dua keuntungan untuk pengguna yauitu mengurangi pembelajaran dan menghilangkan kebingungan
+6. mencegah eror, harus meminimalisir kesalahan yang dilakukan oleh user / pengguna.
+7. mengenali daripada mengingat,pastikan dapat dengan mudah dikenali user daripada mengharuskan mereka mengingat setiap element yang ada
+8. fleksibel dan efisien , memastikan user bisa melakukan apa yang mereka inginkan secara fleksibel dan efisien
+9. estetik dan minimalis , akan meningkatkan kepuasan pengguna dari aplikasi atau website yang dibuat
+
+jenis jenis prototype
+low fidelity , state awal pembuat aplikasi sketching 
+mendium fidelity , menambahkan teks dan place holder rapih
+high fidelity , semua sudah mantap
+
+jenis jenis user testing
+offline user testing , dengan menggunakan low fidelity interface
+geurillea user tersting , dilakukan ditempat uum
+online user testing , melalui video call atau menggunakan aplikasi
+
+design not just what is looks like and feels like. design is how it works
